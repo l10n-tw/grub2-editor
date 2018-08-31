@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: ohmygod19993@gmail.com\n"
 "POT-Creation-Date: 2018-08-30 12:27+0800\n"
-"PO-Revision-Date: 2018-08-30 07:58+0800\n"
+"PO-Revision-Date: 2018-08-31 08:48+0800\n"
 "Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
@@ -458,10 +458,9 @@ msgstr "編輯群組"
 #. i18n: file: ui/kcm_grub2.ui:651
 #. i18n: ectx: attribute (title), widget (QWidget, tab_custom)
 #: rc.cpp:195
-#, fuzzy
 msgctxt "@title:tab Refers to custom entries."
 msgid "Custom Entries"
-msgstr "正常的項目："
+msgstr "自訂項目"
 
 #. i18n: file: ui/kcm_grub2.ui:661
 #. i18n: ectx: attribute (title), widget (QWidget, tab_advanced)
@@ -683,8 +682,7 @@ msgctxt "@info"
 msgid ""
 "Please fill in both <interface>Width</interface> and <interface>Height</"
 "interface> fields."
-msgstr ""
-"請填入「<interface>寬度</interface>」與「<interface>高度</interface>」欄位。"
+msgstr "請填入「<interface>寬度</interface>」與「<interface>高度</interface>」欄位。"
 
 #: src/convertDlg.cpp:95
 msgctxt "@info"
@@ -713,8 +711,7 @@ msgctxt "@info"
 msgid ""
 "Cannot copy original configuration file <filename>%1</filename> to <filename>"
 "%2</filename>."
-msgstr ""
-"無法複製原始設定檔 <filename>%1</filename> 到 <filename>%2</filename>。"
+msgstr "無法複製原始設定檔 <filename>%1</filename> 到 <filename>%2</filename>。"
 
 #: src/helper/helper.cpp:170
 msgctxt "@info"
